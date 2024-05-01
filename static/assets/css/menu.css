@@ -3,6 +3,9 @@ body, html {
   cursor: url("https://raw.githubusercontent.com/Blookblox/CharmanderUnblocker/main/assets/91045.png"), default;
   /* just change the cursor.ico path to your location */
   }
+Body {
+  Background-Color: Black;
+}
 .context-menu {
   display: none;
   font-family: poppins;
